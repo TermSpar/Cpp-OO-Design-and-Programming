@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\VS2019 Projects\P01318Bollinger\P01318Bollinger\Main.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+D:\VS2019 Projects\P01318Bollinger\P01318Bollinger\Main.cpp(71,15): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  P01318Bollinger.vcxproj -> D:\VS2019 Projects\P01318Bollinger\Debug\P01318Bollinger.exe

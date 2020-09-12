@@ -1,0 +1,11 @@
+﻿  Main.cpp
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(36,21): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(46,22): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(47,23): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(95,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(107,22): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(134,20): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(147,20): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(155,20): warning C4018:  '<': signed/unsigned mismatch
+D:\CS318\P02318Bollinger\P02318Bollinger\Main.cpp(156,21): warning C4018:  '<': signed/unsigned mismatch
+  P02318Bollinger.vcxproj -> D:\CS318\P02318Bollinger\Debug\P02318Bollinger.exe
